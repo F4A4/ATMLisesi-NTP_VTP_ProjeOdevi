@@ -1,0 +1,8 @@
+Merhaba 
+Öncelikle sql yanýmýzda taþýmak için ben bir script oluþturdum.
+Eðer evinizde sql varsa o zaman bu scripti kurarak benim proje ödevime kýsa 
+sürede baðlayabilirsiniz.
+HastavePersonel Takip ödevinde sisteme giriþ kýsmýnda 
+Kullanýcý Adý : Hastane Güvenlik  
+Parola : 123456 þeklindedir.
+Bunu okuduðunuz için teþekkür ederim.
